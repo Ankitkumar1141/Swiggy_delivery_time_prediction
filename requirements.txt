@@ -1,0 +1,10 @@
+pandas
+numpy
+ipykernel
+matplotlib
+seaborn
+mlflow
+python-dotenv
+pymysql
+scikit-learn
+dagshub
